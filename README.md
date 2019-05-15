@@ -1,2 +1,3 @@
 # notebook-examples
-Public repository of example notebooks
+
+Public repository of example notebooks.
